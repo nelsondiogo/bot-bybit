@@ -1,2 +1,2 @@
-# bot--binance
-Bot de arbitragem triangular na binance real
+# bot--bybit
+Bot de arbitragem triangular na bybit real
